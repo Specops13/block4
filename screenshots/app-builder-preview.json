@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BLOCK 4",
+      "hasCanvas": true,
+      "bodyTextLen": 2684,
+      "bodyTextHash": "4a6e4bf890044ffabcc500c369f9faedfa52c09e61df405aba6aeacffb65ee55",
+      "bodyTextPrefix": "RBMK-1000 · ONE ENERGY GROUP Reactor lab NOMINAL CORE 1 Rods and",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BLOCK 4",
+      "hasCanvas": true,
+      "bodyTextLen": 2684,
+      "bodyTextHash": "b7a92e1e9ecde150800202fc3309198242385a337b7a75721b0f269e31b4be66",
+      "bodyTextPrefix": "RBMK-1000 · ONE ENERGY GROUP Reactor lab NOMINAL CORE 1 Rods and",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
